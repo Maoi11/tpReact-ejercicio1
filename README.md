@@ -18,7 +18,7 @@ Y luego ejecutá los siguientes comandos:
 - npm run dev 
  
 ## Link de Netlify 
-
+[Ejercicio deployado] (https://tpreact-ejercicio1.netlify.app/) 
 
 ## Tecnologías 🛠️
 
